@@ -69,8 +69,8 @@ http://www.studywithanis.com
 
 # Image Syntax
 <!-- ![alt text] (image) -->
-![Nature](./download.JPG)
-<!-- <img src="download.jpg" width="500" title="Nature"/> -->
+<!-- ![Nature](./download.JPG) -->
+ <img src="download.JPG" width="500" title="Nature"/>
 
 <br/>
 
